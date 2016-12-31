@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "product 1",
+        "productCode": "001",
+        "releaseDate": "March 19, 2016",
+        "description": "description of Product 1.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "../../../assets/images/1.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "Product 3",
+        "productCode": "002",
+        "releaseDate": "March 18, 2016",
+        "description": "description of Product 2.",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "../../../assets/images/2.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Product 3",
+        "productCode": "003",
+        "releaseDate": "May 21, 2016",
+        "description": "description of Product 3.",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "../../../assets/images/3.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Product 4",
+        "productCode": "004",
+        "releaseDate": "May 15, 2016",
+        "description": "description of Product 4.",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "../../../assets/images/4.jpg"
+    },
+    {
+        "productId": 10,
+        "productName": "Product 5",
+        "productCode": "005",
+        "releaseDate": "October 15, 2015",
+        "description": "description of Product 5.",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "../../../assets/images/1.jpg"
+    }
+]
